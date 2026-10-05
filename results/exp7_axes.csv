@@ -1,0 +1,5 @@
+axis,condition,spearman_rho,max_rank_change,method_most_affected
+P1,XGBoost → logreg,0.33333333333333337,6.0,lasso
+P1,XGBoost → mlp,0.65,4.0,rfe
+P2,fixed k → native threshold,0.6833333333333333,5.0,shap_select
+P3,leaky → nested,0.7833333333333333,4.0,rfe

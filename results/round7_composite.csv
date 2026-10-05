@@ -1,0 +1,10 @@
+,performance,stability,noise,transfer,mean_avail,mean_last
+borutashap,1.0,4.0,6.0,5.0,4.0,4.0
+powershap,3.0,2.0,8.0,3.0,4.0,4.0
+chi2,8.0,1.0,1.0,8.0,4.5,4.5
+shap_topk,2.0,3.0,9.0,4.0,4.5,4.5
+rfe,5.0,8.0,5.0,1.0,4.75,4.75
+lasso,7.0,5.0,2.0,7.0,5.25,5.25
+tree_importance,6.0,9.0,4.0,2.0,5.25,5.25
+mi,9.0,6.0,3.0,6.0,6.0,6.0
+shap_select,4.0,7.0,7.0,,6.0,6.75

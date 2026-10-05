@@ -1,0 +1,11 @@
+# Light path (recomputes every statistic, table and figure from results/).
+# Verified with Python 3.11 and 3.12 on Linux x86-64 (see AUDIT.md).
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+scikit-learn==1.8.0
+scikit-posthocs==0.17.0
+matplotlib==3.10.9
+seaborn==0.13.2
+pillow==12.2.0
+tabulate==0.10.0

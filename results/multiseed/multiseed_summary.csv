@@ -1,0 +1,6 @@
+seed,datasets_complete,failed_cells,nested_leader,top3,top6,leaky_leader,rho_P1_logreg,rho_P1_mlp,rho_P3,rfe_rank_leaky,rfe_rank_nested
+42,8,0,borutashap,borutashap > powershap > shap_select,borutashap > powershap > shap_select > shap_topk > lasso > mi,shap_topk,0.33333333333333337,0.9333333333333332,0.48333333333333334,2,7
+43,8,0,shap_topk,shap_topk > powershap > shap_select,shap_topk > powershap > shap_select > borutashap > rfe > tree_importance,shap_select,-0.016666666666666666,0.39999999999999997,0.7999999999999999,4,5
+44,8,0,borutashap,borutashap > shap_topk > powershap,borutashap > shap_topk > powershap > shap_select > rfe > mi,shap_select,0.26666666666666666,-0.15,0.8666666666666667,5,5
+45,8,0,shap_topk,shap_topk > borutashap > shap_select,shap_topk > borutashap > shap_select > powershap > rfe > lasso,shap_select,0.3666666666666667,-0.35,0.8333333333333333,3,5
+46,8,0,powershap,powershap > borutashap > shap_select,powershap > borutashap > shap_select > shap_topk > rfe > lasso,powershap,0.48333333333333334,0.08333333333333334,0.8166666666666667,3,5

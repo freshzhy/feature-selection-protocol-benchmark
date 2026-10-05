@@ -1,0 +1,12 @@
+# Main environment for the full path (feature selection and evaluation).
+# Python 3.12. These are the versions of the original macOS (Apple silicon) environment.
+# The multi-seed runs used a main environment rebuilt from this file on the same macOS
+# workstation; seed-42 nested and leaky AUC values reproduced the original runs (AUDIT.md).
+# Installation from this file was also checked on Linux x86-64.
+numpy==2.4.4
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.8.0
+xgboost==3.2.0
+shap==0.52.0
+scikit-posthocs==0.17.0

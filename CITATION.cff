@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite both the archive and the paper."
+title: "Replication package for: How much does the evaluation protocol reshape a feature selection ranking?"
+type: software
+authors:
+  - name: "TODO_AUTHOR_NAME"
+license: MIT
+version: "2.0.0"
+date-released: "2026-10-04"
+keywords: [feature selection, SHAP, evaluation protocol, selection bias, benchmark, reproducibility]

@@ -1,0 +1,9 @@
+dataset,population,rows,cells,inf_cells,nan_cells,inf_prop,nan_prop,rows_affected_prop
+UNSW-NB15,full,2390275,93220725,0,0,0.0,0.0,0.0
+UNSW-NB15,sample,100000,3900000,0,0,0.0,0.0,0.0
+CIC-IDS2018,full,18893708,736854612,0,0,0.0,0.0,0.0
+CIC-IDS2018,sample,100000,3900000,0,0,0.0,0.0,0.0
+ToN-IoT,full,16940496,660679344,0,0,0.0,0.0,0.0
+ToN-IoT,sample,100000,3900000,0,0,0.0,0.0,0.0
+BoT-IoT,full,37763497,1472776383,0,0,0.0,0.0,0.0
+BoT-IoT,sample,100000,3900000,0,0,0.0,0.0,0.0

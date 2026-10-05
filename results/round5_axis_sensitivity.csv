@@ -1,0 +1,13 @@
+variant,n_datasets,axis,spearman_rho,max_rank_change
+A: 20 datasets (Madelon dropped: SHAP-Select native timeout); empty native set = AUC 0.5,20,P1_logreg,0.3,6.0
+A: 20 datasets (Madelon dropped: SHAP-Select native timeout); empty native set = AUC 0.5,20,P1_mlp,0.3667,5.0
+A: 20 datasets (Madelon dropped: SHAP-Select native timeout); empty native set = AUC 0.5,20,P2,0.4,5.0
+A: 20 datasets (Madelon dropped: SHAP-Select native timeout); empty native set = AUC 0.5,20,P3,0.7833,4.0
+B: 20 datasets; empty native sets dropped per method,20,P1_logreg,0.3,6.0
+B: 20 datasets; empty native sets dropped per method,20,P1_mlp,0.3667,5.0
+B: 20 datasets; empty native sets dropped per method,20,P2,0.6833,5.0
+B: 20 datasets; empty native sets dropped per method,20,P3,0.7833,4.0
+C: 18 datasets where all three native runs succeed,18,P1_logreg,0.3,5.0
+C: 18 datasets where all three native runs succeed,18,P1_mlp,0.4833,4.0
+C: 18 datasets where all three native runs succeed,18,P2,0.15,5.0
+C: 18 datasets where all three native runs succeed,18,P3,0.8167,3.0
