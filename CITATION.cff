@@ -3,7 +3,7 @@ message: "If you use this replication package, please cite both the archive and 
 title: "Replication package for: How much does the evaluation protocol reshape a feature selection ranking?"
 type: software
 authors:
-  - name: "TODO_AUTHOR_NAME"
+  - name: "Haoyu Zhang"
 license: MIT
 version: "2.0.0"
 date-released: "2026-10-04"
